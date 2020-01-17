@@ -1,0 +1,17 @@
+{
+  "name": "lanlinker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "father-doc dev"
+  },
+  "dependencies": {
+    "antd": "^3.26.7",
+    "react": "^16.12.0"
+  },
+  "devDependencies": {
+    "father-doc": "^1.0.0-alpha.16",
+    "umi-plugin-import": "^1.0.0"
+  }
+}
